@@ -1,0 +1,10 @@
+https://www.uidesigndaily.com/posts/sketch-questionnaire-choice-submit-day-924
+
+json stands for ---> javascript object notation
+
+js funnction used:
+
+1. object
+2.question
+3. use of higher order functios (fucntion k andar function)
+4. how to use array object data in any fucntion
